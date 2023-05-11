@@ -10,6 +10,6 @@
 --]]
 
 return {
-    desktop  = require("freedesktop.desktop"),
-    menu     = require("freedesktop.menu")
+    desktop  = require("sub.freedesktop.desktop"),
+    menu     = require("sub.freedesktop.menu")
 }
